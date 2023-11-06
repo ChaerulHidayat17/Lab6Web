@@ -39,7 +39,7 @@ body {
   margin-bottom: 20px;
 }
 .widget-box .title {
-  padding: 10px 16px;
+  padding: 9px 9px;
   background-color: #428bca;
   color: #fff;
 }
@@ -63,12 +63,7 @@ body {
   line-height: 25px;
 }
 /* footer */
-footer {
-  clear: both;
-  background-color: #1d1d1d;
-  padding: 20px;
-  color: #eee;
-}
+
 /* box */
 .box {
   display: block;
