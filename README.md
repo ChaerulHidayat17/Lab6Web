@@ -48,3 +48,34 @@ Dan ini hasil nya <br>
 ![Alt text](README/footer.png)<br><br>
 Dan ini hasil nya <br>
 ![Alt text](<README/foto footer.png>) <br>
+<br><br><br>
+
+# Di sini saya akan membuat halaman About <br>
+
+# 1. Saya menggunakan Boostrapm Versi 5.3.2 <br>
+
+![Alt text](<README/bosstrap about.png>)<br><br>
+
+# 2. Saya membuat header dengan isi About Us <br>
+
+![Alt text](<README/about us.png>)<br><br>
+Dan ini hasil nya <br>
+![Alt text](<README/foto about.png>)<br><br>
+
+# 3. Saya membuat header dan paragraf <br>
+
+![Alt text](README/chaerul.png)<br><br>
+Dan ini hasil nya <br>
+![Alt text](<README/foto chaerul.png>)<br><br>
+
+# 4. Saya membuat container yang di dalam nya ada card text <br>
+
+![Alt text](<README/my project.png>)<br><br>
+Dan ini hasil nya <br>
+![Alt text](<README/foto project.png>)<br><br>
+
+# 5. Saya membuat footer <br><br>
+
+![Alt text](<README/footer about.png>)<br><br>
+Dan ini hasil nya <br><br>
+![Alt text](<README/footoo footer.png>)<br><br>
