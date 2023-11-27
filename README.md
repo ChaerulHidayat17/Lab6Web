@@ -79,3 +79,24 @@ Dan ini hasil nya <br>
 ![Alt text](<README/footer about.png>)<br><br>
 Dan ini hasil nya <br><br>
 ![Alt text](<README/footoo footer.png>)<br><br>
+<br><br><br>
+
+# Di sini saya akan membuat halaman kontak <br>
+
+# 1. Saya menggunakan Boostrap Versi 5.3.2 <br>
+
+![Alt text](<README/boostrap kontak.png>)<br><br>
+
+# 2. Saya membuat form contact <br>
+
+![Alt text](<README/kontak code.png>) <br><br>
+Dan ini hasil nya <br>
+![Alt text](<README/foto kontak.png>) <br><br>
+
+<br><br><br>
+===========================================================================<br>
+
+<p align="center">
+&#128640 <b> Terima Kasih </b>&#128640 <br>
+</p>
+===========================================================================<br>
