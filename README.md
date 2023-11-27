@@ -11,40 +11,40 @@
 
 # 1. Saya menggunskan Boostrap versi 4.5.2 <br>
 
-![Alt text](<README/code1 boostrap.png>) <br>
+![Alt text](<README/code1 boostrap.png>) <br><br>
 
 # 2. Saya membuat layout dan nav link <br>
 
-![Alt text](<README/layout nav.png>)<br>
+![Alt text](<README/layout nav.png>)<br><br>
 Dan ini hasil nya <br>
 ![Alt text](<README/foto layout.png>)<br><br>
 
 # 3. Saya membuat isi Hello World <br>
 
-![Alt text](<README/hello world.png>)<br>
+![Alt text](<README/hello world.png>)<br><br>
 Dan ini hasil nya <br>
 ![Alt text](<README/foto hello.png>)<br><br>
 
 # 4. Saya membuat article circle <br>
 
-![Alt text](README/circle.png)<br>
+![Alt text](README/circle.png)<br><br>
 Dan ini hasil nya <br>
 ![Alt text](<README/foto heading.png>)<br><br>
 
 # 5. Saya Membuat Widget Header <br>
 
-![Alt text](README/widget.png) <br>
+![Alt text](README/widget.png) <br><br>
 Dan ini hasil nya <br>
 ![Alt text](<README/foto widget.png>)<br><br>
 
 # 6. Saya membuat article box <br>
 
-![Alt text](README/kotak.png) <br>
+![Alt text](README/kotak.png) <br><br>
 Dan ini hasil nya <br>
 ![Alt text](<README/foto kotak.png>)<br><br>
 
 # 7. Saya membuat footer <br>
 
-![Alt text](README/footer.png)<br>
+![Alt text](README/footer.png)<br><br>
 Dan ini hasil nya <br>
 ![Alt text](<README/foto footer.png>) <br>
